@@ -7,7 +7,7 @@
 The objective of this app is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
 
-## What you will create
+## Final Output
 
 We made a crypto currency price checking app. We were able to monitor the bitcoin investents on the move!
 
